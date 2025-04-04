@@ -1,4 +1,3 @@
-## Congenial School Certificates
 
 Repository of completed courses and training.
 
