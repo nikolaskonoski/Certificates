@@ -1,5 +1,5 @@
 
-Repository of completed courses and training.
+## Repository of completed courses and training.
 
 ## List of certificates
 
